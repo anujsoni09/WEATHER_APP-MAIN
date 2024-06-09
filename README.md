@@ -14,18 +14,18 @@ The Weather App is a web application that allows users to check the current weat
         Axios: For making HTTP requests to the OpenWeather API.
 ## **Installation and Running the Application Locally**
 To run the Weather App on your local machine, follow these steps:<br>
-1. Download the project: Clone or download the repository to your local machine.
+1. Download the project: Clone or download the repository to your local machine.<br>
    git clone <repository-url>
-3. Navigate to the project directory.
+3. Navigate to the project directory.<br>
     cd weather-app<br>
-4. Install dependencies: Run the following command to install the required npm packages
+4. Install dependencies: Run the following command to install the required npm packages.<br>
     npm install
-5. Install Axios: Run the following command to install Axios, which is used to make HTTP requests.
+5. Install Axios: Run the following command to install Axios, which is used to make HTTP requests.<br>
    npm install axios
-6. Start the server: Run the following command to start the development server.
+6. Start the server: Run the following command to start the development server.<br>
    npm start
-7.  Open the application: Open your browser and go to http://localhost:3000 to view the Weather App.
+7.  Open the application: Open your browser and go to http://localhost:3000 to view the Weather App.<br>
 
-$$ **Known Issues or Limitations**
+## **Known Issues or Limitations**
 1. API Rate Limiting: The OpenWeather API has a rate limit for free-tier users, which might affect the number of requests that can be made in a given time period.<br>
 2. Limited Data: The app only displays current weather conditions and does not provide forecasts or historical data.
