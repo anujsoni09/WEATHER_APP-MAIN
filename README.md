@@ -7,15 +7,15 @@ The Weather App is a web application that allows users to check the current weat
 3.Show current weather conditions, humidity, and wind speed.<br>
 4.Responsive Design<br> 
 ## **Technologies Used**
-        HTML: For structuring the web pages.<br>
-        CSS: For styling the web pages.<br>
-        JavaScript: For adding interactivity.<br>
-        React.js: For building the user interface.<br>
+        HTML: For structuring the web pages.
+        CSS: For styling the web pages.
+        JavaScript: For adding interactivity.
+        React.js: For building the user interface.
         Axios: For making HTTP requests to the OpenWeather API.
 ## **Installation and Running the Application Locally**
 To run the Weather App on your local machine, follow these steps:<br>
 1. Download the project: Clone or download the repository to your local machine.<br>
-   <span style="color:green;"> git clone <repository-url></span>
+         git clone <repository-url>
 3. Navigate to the project directory.<br>
    <span style="color:green;"> cd weather-app</span>
 4. Install dependencies: Run the following command to install the required npm packages.<br>
