@@ -15,15 +15,15 @@ The Weather App is a web application that allows users to check the current weat
 ## **Installation and Running the Application Locally**
 To run the Weather App on your local machine, follow these steps:<br>
 1. Download the project: Clone or download the repository to your local machine.<br>
-   git clone <repository-url>
+   <span style="color:green;"> git clone <repository-url></span>
 3. Navigate to the project directory.<br>
-    cd weather-app<br>
+   <span style="color:green;"> cd weather-app</span>
 4. Install dependencies: Run the following command to install the required npm packages.<br>
-    npm install
+   <span style="color:green;"> npm install</span>
 5. Install Axios: Run the following command to install Axios, which is used to make HTTP requests.<br>
-   npm install axios
+   <span style="color:green;"> npm install axios</span>
 6. Start the server: Run the following command to start the development server.<br>
-   npm start
+   <span style="color:green;"> npm start</span>
 7.  Open the application: Open your browser and go to http://localhost:3000 to view the Weather App.<br>
 
 ## **Known Issues or Limitations**
